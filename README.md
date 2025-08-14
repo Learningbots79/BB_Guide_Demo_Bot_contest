@@ -18,7 +18,7 @@ Whether you're:
 - 🔄 **An existing user** wanting to explore advanced features  
 - 👀 **Curious about bot creation** and want to preview the platform  
 
-This bot offers everything — from **interactive quizzes** to **ready-to-use BJS code examples**, **introductory videos**, and **real-time app status**.  
+This bot offers everything — from **interactive quizzes** to **ready-to-use BJS code examples** and **introductory videos**.  
 
 ---
 
@@ -71,30 +71,7 @@ This bot offers everything — from **interactive quizzes** to **ready-to-use BJ
 
 ---
 
-### 5️⃣ Real-Time App Status
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4e3f6406-2997-49e2-983a-c161d58699ca" alt="App Status" width="500" />
-</p>
-<p align="center"><em>Instantly check Bots.Business server status</em></p>
-
-- Stay updated about maintenance, downtime, or new releases  
-
----
-
-### 6️⃣ Broadcasting & Support System
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/09d535bf-fa72-483a-974e-0b339679e065" alt="Broadcasting" width="500" />
-</p>
-<p align="center"><em>Fast broadcasting & built-in support for users</em></p>
-
-- **Broadcast messages** to all bot users instantly  
-- Built-in **support system** for troubleshooting  
-- Direct link to **Bots community**  
-- Simple **doubt clearing system**  
-
----
-
-### 7️⃣ AI Assistance by ChatGPT
+### 5️⃣ AI Assistance by ChatGPT
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2985e181-a0d5-40e9-82c6-a4cccedc7e0d" alt="AI Chat" width="500" />
 </p>
@@ -121,7 +98,7 @@ A **no-code & low-code platform** for creating advanced Telegram bots.
 ### 🔹 Why Use Bots.Business?  
 
 1. ⚡ **Fast Bot Building** — Create & publish in minutes  
-2. 🛠 **Powerful Features** — Inline buttons, quizzes, broadcast, user tracking, and more  
+2. 🛠 **Powerful Features** — Inline buttons, quizzes, user tracking, and more  
 3. 🎯 **Easy Customization** — Unlock full bot potential with BJS  
 4. 📈 **Scalable** — Perfect for personal and business projects  
 
@@ -136,10 +113,24 @@ A **no-code & low-code platform** for creating advanced Telegram bots.
 
 ---
 
-## 📄 License  
-This project is for **educational and demonstration purposes only**.  
-All trademarks and copyrights belong to their respective owners.  
+## 💻 Local Deployment  
+
+1️⃣ **Clone the Repository**
+```bash
+git clone https://github.com/Learningbots79/BB_Guide_Demo_Bot_contest.git
+cd BB_Guide_Demo_Bot_contest
+
+sudo apt update
+sudo apt install -y nodejs npm
+npm install
+
+node bot/main.js
 
 ---
 
-💡 _"From zero to pro — one bot at a time."_
+📄 License
+
+This project is for educational and demonstration purposes only.
+All trademarks and copyrights belong to their respective owners.
+
+---
