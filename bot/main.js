@@ -14,7 +14,6 @@ const startQuiz = require("./commands/startquiz");
 const ai = require("./commands/ai");
 const notused = require("./commands/notused");
 const host = require("./commands/host");
-const broadcast = require("./commands/broadcast");
 
 
 
@@ -29,8 +28,7 @@ const commands = {
   "startquiz": startQuiz.quiz1,
   "ai": ai,
   "host": host,
-  "notused": notused,
-  "broadcast": broadcast
+  "notused": notused
 };
 
 // Quiz commands
