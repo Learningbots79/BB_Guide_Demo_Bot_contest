@@ -126,6 +126,8 @@ npm install
 
 node bot/main.js
 
+```
+
 ---
 
 📄 License
