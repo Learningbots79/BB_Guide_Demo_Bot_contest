@@ -117,6 +117,8 @@ A **no-code & low-code platform** for creating advanced Telegram bots.
 
 1️⃣ **Clone the Repository**
 ```bash
+
+Paste Your Bot Token in utils.js file get from @botfather
 git clone https://github.com/Learningbots79/BB_Guide_Demo_Bot_contest.git
 cd BB_Guide_Demo_Bot_contest
 
